@@ -1,0 +1,10 @@
+= projecteuler
+
+== description
+These are my solutions against the problems in Project Euler.
+
+== author
+Kiyo Nagamine
+
+== licence
+This is distributed under MIT

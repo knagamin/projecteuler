@@ -3,6 +3,9 @@
 == description
 These are my solutions against the problems in Project Euler.
 
+== Target language
+* Python3
+
 == author
 Kiyo Nagamine
 

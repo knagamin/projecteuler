@@ -1,7 +1,15 @@
 = projecteuler
 
 == description
-These are my solutions against the problems in Project Euler.
+This project is storing my solutions against the problems in Project Euler. I tried to not only solve solutions, but learn about CI/CD concept as follows.
+
+* Structure
+** Project, directory, data and so on
+* Testing
+* Collaboration with external services
+** Travis
+
+This is why sometimes my code has some lengthy in spite of easy solutions.
 
 == Target language
 * Python3
